@@ -46,7 +46,7 @@ class WelcomeScreen extends StatelessWidget {
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 20,
-                color: Colors.white70,
+                color: Color.fromARGB(253, 255, 255, 255),
               ),
             ),
             const SizedBox(height: 80),
